@@ -1,4 +1,5 @@
-# 🌱 Plant Co. Performance Dashboard | Sales, Profitability & Quantity Analysis (2022–2024)
+# 🌱 Plant Co. Performance Dashboard 
+##  Sales, Profitability & Quantity Analysis (2022–2024)
 
 ## 📑 Table of Contents
 
