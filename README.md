@@ -11,10 +11,6 @@
 - [Key Findings](#-key-findings)
 - [Business Insights](#-business-insights)
 - [Actionable Recommendations](#-actionable-recommendations)
-- [DAX Concepts Applied](#-dax-concepts-applied)
-- [Skills Demonstrated](#-skills-demonstrated)
-- [Business Impact](#-business-impact)
-- [Author](#-author)
 
 --- 
 
