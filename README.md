@@ -317,6 +317,6 @@ The solution reduces manual reporting effort while improving decision-making spe
 
 # 👤 Author
 
-**Hafiz Riyadho** | Data Analytics Project Portofolio
+**Hafiz Riyadho** | Data Analytics Portfolio Project
 
 ---
