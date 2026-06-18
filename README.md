@@ -1,5 +1,23 @@
 # 🌱 Plant Co. Performance Dashboard | Sales, Profitability & Quantity Analysis (2022–2024)
 
+## 📑 Table of Contents
+
+- [Project Overview](#-project-overview)
+- [Business Problem](#-business-problem)
+- [Business Questions Answered](#-business-questions-answered)
+- [Dashboard Preview](#-dashboard-preview)
+- [Executive KPI Summary](#-executive-kpi-summary)
+- [Dashboard Features](#-dashboard-features)
+- [Key Findings](#-key-findings)
+- [Business Insights](#-business-insights)
+- [Actionable Recommendations](#-actionable-recommendations)
+- [DAX Concepts Applied](#-dax-concepts-applied)
+- [Skills Demonstrated](#-skills-demonstrated)
+- [Business Impact](#-business-impact)
+- [Author](#-author)
+
+--- 
+
 ## 📌 Project Overview
 
 This project analyzes Plant Co.'s business performance across **2022–2024** using an interactive Power BI dashboard.
